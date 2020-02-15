@@ -2,4 +2,4 @@
 Мой первый опубликованный сайт
 
 
-[github_lesson] (ToEasyToBuddha.github.io/github_lesson/ "github_lesson")
+[github_lesson] (https://ToEasyToBuddha.github.io/github_lesson/ "github_lesson")
